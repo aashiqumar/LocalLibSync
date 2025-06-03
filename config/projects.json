@@ -1,0 +1,13 @@
+{
+    "libraries": [
+        {
+            "name": "csi-dental-rms-ui-lib",
+            "src": "/home/rizwan/Documents/CSI/UI Packages/csi-dental-rms-ui-lib",
+            "build_output": "/home/rizwan/Documents/CSI/UI Packages/csi-dental-rms-ui-lib/dist/csi-dental-rms-ui",
+            "build_command": "ng build",
+            "destinations": [
+                "/home/rizwan/Documents/CSI/RMS/csi-rms-ui/node_modules/@csi/csi-dental-rms-ui"
+            ]
+        }
+    ]
+}
