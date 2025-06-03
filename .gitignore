@@ -1,5 +1,7 @@
-__pycache__/
-*.pyc
+# Ignore __pycache__ folders everywhere
+**/__pycache__/
+# Ignore all .pyc files everywhere
+**/*.pyc
 *.pyo
 *.pyd
 *.log
