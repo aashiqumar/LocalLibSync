@@ -77,7 +77,7 @@ If you're tired of:
 ## 💡 Tips
 
 - Test your build command manually in the terminal before entering it in LocalLibSync.
-- For Angular projects, the command is usually:
+- For Angular projects, the command is usually is:
 
   ```bash
   ng build <your-lib-name>
